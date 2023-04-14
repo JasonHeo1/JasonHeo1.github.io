@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+<!-- 我是马壮，码而生，码而立。
 
 仰慕「优雅编码的艺术」。
 
@@ -26,7 +26,7 @@ permalink: /about/
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
 </li>
 {% endif %}
-</ul>
+</ul> -->
 
 
 ## Skill Keywords

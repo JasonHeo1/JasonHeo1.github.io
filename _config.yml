@@ -4,8 +4,8 @@
 baseurl:
 url: https://JasonHeo1.github.io
 date_format: "ordinal"
-title: JasonHeo
-subtitle: "JasonHeo IT Space"
+title: JasonHeo IT Space
+subtitle: "Welcom to JasonHeo IT Space"
 description: ""
 keywords: 
 timezone: Asia/Seoul
@@ -70,11 +70,11 @@ email: heo1886@naver.com
 navs:
   -
     href: /
-    label: MainPage
+    label: Main page
 
   -
     href: /categories/
-    label: categories
+    label: Categories
 
 #   -
 #     href: /archives/
@@ -86,15 +86,15 @@ navs:
 
   -
     href: /wiki/
-    label: wiki
+    label: Wiki
 
   -
     href: /links/
-    label: links
+    label: Links
 
   -
     href: /about/
-    label: about
+    label: About
 
 # ---------------- #
 #       RSS        #
