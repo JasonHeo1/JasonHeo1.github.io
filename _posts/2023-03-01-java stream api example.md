@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "java stream api 예제"
+title: java stream api 예제
 categories: [Java]
-description: "java stream api 예제"
+description: java stream api 예제
 keywords: Java, Stream api
 mermaid: false
 sequence: false

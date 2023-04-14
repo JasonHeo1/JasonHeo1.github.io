@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Dubbo MSA Framework"
+title: Dubbo MSA Framework
 categories: [Java]
-description: "Dubbo MSA Framework"
+description: Dubbo MSA Framework
 keywords: Java, Dubbo, MSA
 mermaid: false
 sequence: false
