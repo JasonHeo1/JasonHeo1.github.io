@@ -50,14 +50,9 @@ if (clazz.isInstance(myObject)) {
 
 `Class.isAssignableFrom()` 메소드는 두 개의 클래스 타입을 비교하여, 첫 번째 클래스가 두 번째 클래스의 하위 클래스인지를 확인하는 데 사용됩니다. 결과 값은 boolean 타입으로, 첫 번째 클래스가 두 번째 클래스의 하위 클래스이면 `true`를 반환하고, 그렇지 않으면 `false`를 반환합니다.
 
-예를 들어, 아래 코드는 `MyClass` 클래스가 `Object` 클래스의 하위 클래스인지를 확인하는 코드입니다.
-
 ```java
-Class<?> class1 = MyClass.class;
-Class<?> class2 = Object.class;
-if (class2.isAssignableFrom(class1)) {
-    System.out.println("MyClass is a subclass of Object");
-}
+System.out.println(ArrayList.class.isAssignableFrom(Object.class)); //false
+System.out.println(Object.class.isAssignableFrom(ArrayList.class)); //true
 ```
 
 위 코드에서 `class2.isAssignableFrom(class1)`은 `MyClass` 클래스가 `Object` 클래스의 하위 클래스인지를 확인하는 코드입니다. `true`가 반환되므로, "MyClass is a subclass of Object"이 출력됩니다.
