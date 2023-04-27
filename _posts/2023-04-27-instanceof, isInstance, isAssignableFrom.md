@@ -54,5 +54,3 @@ if (clazz.isInstance(myObject)) {
 System.out.println(ArrayList.class.isAssignableFrom(Object.class)); //false
 System.out.println(Object.class.isAssignableFrom(ArrayList.class)); //true
 ```
-
-위 코드에서 `class2.isAssignableFrom(class1)`은 `MyClass` 클래스가 `Object` 클래스의 하위 클래스인지를 확인하는 코드입니다. `true`가 반환되므로, "MyClass is a subclass of Object"이 출력됩니다.
