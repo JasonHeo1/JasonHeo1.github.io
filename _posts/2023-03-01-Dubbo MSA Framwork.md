@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dubbo MSA Framework
-categories: [Java]
+categories: [MSA(Microservices Architecture)]
 description: Dubbo MSA Framework
 keywords: Java, Dubbo, MSA
 mermaid: false

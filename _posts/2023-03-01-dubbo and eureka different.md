@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dubbo와 Eureka MSA 프레임웍의 차이점
-categories: [Java]
+categories: [MSA(Microservices Architecture)]
 description: Dubbo와 Eureka MSA 프레임웍의 차이점
 keywords: Java, Dubbo, MSA
 mermaid: false
